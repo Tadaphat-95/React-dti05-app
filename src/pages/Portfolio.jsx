@@ -2,10 +2,10 @@
 import NavBar from "../components/NavBar";
 import { FaGithub } from "react-icons/fa";
 
-import Portfolio1 from "./../Assets/Portfolio1.png";
-import Portfolio2 from "./../Assets/Portfolio2.png";
-import Portfolio3 from "./../Assets/Portfolio3.png";
-import Portfolio4 from "./../Assets/Portfolio4.png";
+import Portfolio1 from "../Assets/Portfolio1.png";
+import Portfolio2 from "../Assets/Portfolio2.png";
+import Portfolio3 from "../Assets/Portfolio3.png";
+import Portfolio4 from "../Assets/Portfolio4.png";
 
 const Portfolio = () => {
   const pc = { color: "yellow" };

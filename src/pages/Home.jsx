@@ -1,4 +1,4 @@
-import React from "react";
+
 import NavBar from "../components/NavBar";
 import Pro from "../Assets/Pro.png";
 import { FaLinkedinIn } from "react-icons/fa";
