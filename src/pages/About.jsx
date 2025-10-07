@@ -1,5 +1,5 @@
 import NavBar from "../components/NavBar";
-import loader from "./../assets/loader.png";
+import loader from "./../Assets/loader.png";
 
 const About = () => {
   const ac = { color: "yellow" };

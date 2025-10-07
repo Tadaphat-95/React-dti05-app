@@ -1,17 +1,17 @@
 import React from "react";
 import NavBar from "../components/NavBar";
-import Pro from "../assets/Pro.png";
+import Pro from "../Assets/Pro.png";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
-import Figma from "../assets/Figma.png";
-import Firebase from "../assets/Firebase.png";
-import Html from "../assets/Html.png";
-import Java from "../assets/Java.png";
-import Js from "../assets/Js.png";
-import Jsx from "../assets/Jsx.png";
-import Node from "../assets/Node.png";
-import Spring from "../assets/Spring.png";
-import Css from "../assets/Css.png";
+import Figma from "../Assets/Figma.png";
+import Firebase from "../Assets/Firebase.png";
+import Html from "../Assets/Html.png";
+import Java from "../Assets/Java.png";
+import Js from "../Assets/Js.png";
+import Jsx from "../Assets/Jsx.png";
+import Node from "../Assets/Node.png";
+import Spring from "../Assets/Spring.png";
+import Css from "../Assets/Css.png";
 export default function Home() {
   const hc = { color: "yellow" };
 

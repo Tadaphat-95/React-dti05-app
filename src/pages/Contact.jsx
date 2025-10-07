@@ -1,8 +1,8 @@
 
 import NavBar from "../components/NavBar";
-import img1 from "./../assets/Profilecontact.png";
-import img2 from "./../assets/Group1.png";
-import img3 from "./../assets/Group2.png";
+import img1 from "./../Assets/Profilecontact.png";
+import img2 from "./../Assets/Group1.png";
+import img3 from "./../Assets/Group2.png";
 
 
 const Contact = () => {
